@@ -9,7 +9,7 @@ const recetaSchema = new mongoose.Schema({
     type: String,
     required: true,
   },
-  instucciones: {
+  instrucciones: {
     type: String,
     required: true,
   },
